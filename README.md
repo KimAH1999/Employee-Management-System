@@ -29,7 +29,11 @@ npm install
 
 ## Usage
 
-demo here
+
+
+https://user-images.githubusercontent.com/87666809/152256785-5edf3ee4-318f-4597-b7bb-a7f3645337a9.mp4
+
+
   
 ## Contributing
 
