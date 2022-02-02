@@ -3,7 +3,7 @@
 
 ## Description
 
-This project was to understand how to make a management system
+This project was to understand how to make a management system and understand how all the coding workes together overall. I understood how mysql works and how to use starter commands and how to create a database and variables for this example management system.
 
 ## Table of Contents 
 
